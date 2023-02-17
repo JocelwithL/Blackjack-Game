@@ -29,3 +29,25 @@ h1 {
     background-color: rgb(199, 145, 8);
 
 }
+
+#new-card-btn {
+    margin-top: 10px;
+    width: 200px;
+    height: 34px;
+    border: none;
+    border-radius: 5px;
+    background-color: goldenrod;
+    color: rgb(1, 65, 12);
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+#new-card-btn:hover {
+    background-color: rgb(238, 176, 18);
+}
+
+#new-card-btn:active {
+    background-color: rgb(199, 145, 8);
+
+}
